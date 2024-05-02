@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lotterycontract-react-app/static/css/main.0600f5fa.css",
+    "main.js": "/lotterycontract-react-app/static/js/main.fc1dea30.js",
+    "static/js/453.d9557230.chunk.js": "/lotterycontract-react-app/static/js/453.d9557230.chunk.js",
+    "static/media/image.jpeg": "/lotterycontract-react-app/static/media/image.c96ac62b5b182fd87f27.jpeg",
+    "index.html": "/lotterycontract-react-app/index.html",
+    "main.0600f5fa.css.map": "/lotterycontract-react-app/static/css/main.0600f5fa.css.map",
+    "main.fc1dea30.js.map": "/lotterycontract-react-app/static/js/main.fc1dea30.js.map",
+    "453.d9557230.chunk.js.map": "/lotterycontract-react-app/static/js/453.d9557230.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0600f5fa.css",
+    "static/js/main.fc1dea30.js"
+  ]
+}
